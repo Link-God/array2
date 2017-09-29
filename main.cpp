@@ -42,7 +42,7 @@ int main()
                     }
             }
       
-      cout<<"max :" << max1+max2;
+      cout<< max1+max2;
     }
    else {
        std::cout << "An error has occurred while reading numbers";
